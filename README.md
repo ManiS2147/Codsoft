@@ -1,10 +1,20 @@
-# Codsoft_tast1
-✨ First Task Completed! ✨  
+🚀 CodSoft Internship Projects – C & C++  
 
-Excited to share that I have successfully completed my first task as an intern at CodSoft! 🚀 For this task, I developed a Number Guessing Game in C++, which enhanced my problem-solving skills and strengthened my understanding of fundamental programming concepts.  
+Welcome to my CodSoft Internship project repository! This repo contains the hands-on coding projects I worked on during my internship, enhancing my skills in C and C++ programming.  
 
-This experience has been a great learning opportunity, and I’m looking forward to tackling more challenges ahead!  
+🔹 Projects Included 
 
-A big thank you to CodSoft for this opportunity. Stay tuned for more updates!  
+#C++ Projects 
+✅ Number Guessing Game – A fun game where the user guesses a randomly generated number.  
+✅ Simple Calculator – A basic calculator performing arithmetic operations (+, -, *, /).  
 
-#CodSoft #Internship #Cplusplus #Learning #Coding
+#C Projects  
+✅ To-Do List Manager – A console-based task manager to add, view, complete, and remove tasks.  
+
+📌 Skills Gained  
+🔹 C & C++ Programming Fundamentals  
+🔹 File Handling & Dynamic Memory Allocation  
+🔹 Logical Problem-Solving  
+🔹 User Input Handling & Control Structures  
+
+Feel free to explore the code, suggest improvements, and star ⭐ the repo if you find it useful! 🚀  
